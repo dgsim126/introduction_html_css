@@ -1,0 +1,78 @@
+.card {
+    position: relative;
+    display: inline-block;
+    width: 800px; 
+}
+
+.card img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.card .name {
+    position: absolute;
+    bottom: 320px; 
+    left: 120px; 
+    color: black;
+    font-size: 33px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.card .id {
+    position: absolute;
+    bottom: 260px; 
+    left: 150px; 
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+    font-family: ""
+}
+
+.card .major {
+    position: absolute;
+    bottom: 140px; 
+    left: 50px; 
+    color: black;
+    font-size: 23px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.card .date {
+    position: absolute;
+    bottom: 70px; 
+    left: 315px; 
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.card .school {
+    position: absolute;
+    bottom: 30px; 
+    left: 300px; 
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.card .selfie{
+    position: absolute;
+    bottom: 130px; 
+    left: 482px; 
+    width: 245px;
+    height: 340px;
+}
+
+.info{
+    width: 760px; 
+    padding: 10px;
+    border: solid 2px black;
+    margin: 10px;
+    
+}
