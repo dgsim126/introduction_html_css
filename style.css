@@ -71,8 +71,25 @@
 
 .info{
     width: 760px; 
-    padding: 10px;
     border: solid 2px black;
     margin: 10px;
-    
 }
+
+.sector{
+    border: solid 1px black;
+    margin: 7px;
+    padding: 10px;
+}
+
+.box{
+    width: 780px; 
+    border: solid 1px black;
+    margin-left: 6px;
+}
+
+body{
+    border: solid 1px black;
+    width: 800px; 
+    height: 1090px;
+}
+
