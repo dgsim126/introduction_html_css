@@ -69,27 +69,28 @@
     height: 340px;
 }
 
-.info{
-    width: 760px; 
-    border: solid 2px black;
-    margin: 10px;
-}
-
-.sector{
-    border: solid 1px black;
-    margin: 7px;
+.link1{
+    position: absolute;
+    bottom: 0px; 
+    left: 690px; 
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
     padding: 10px;
 }
 
-.box{
-    width: 780px; 
-    border: solid 1px black;
-    margin-left: 6px;
+.link2{
+    position: absolute;
+    bottom: 0px; 
+    left: 590px; 
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px;
 }
 
-body{
-    border: solid 1px black;
-    width: 800px; 
-    height: 1090px;
-}
+a {
+    text-decoration: none;
+    color: brown;
+  }
 
